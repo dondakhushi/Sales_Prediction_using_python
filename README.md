@@ -83,8 +83,8 @@ The model is evaluated using:
 
 | Metric   | Value        |
 | -------- | ------------ |
-| MAE      | ~1.2         |
-| RMSE     | ~1.7         |
+| MAE      | ~1.46        |
+| RMSE     | ~1.78        |
 | R² Score | ~0.90 - 0.95 |
 
 A high R² score indicates that the model explains most of the variability in sales.
